@@ -1,5 +1,7 @@
 #include <conio.h>
 #include <iostream.h>
+
+using namespace std;
  
 main() {
   	int js, ks, jb, kb, ws, wb;
