@@ -4,7 +4,7 @@
 using namespace std;
  
 main() {
-  	int js, ks, jb, kb, ws, wb;
+  	int js, ks, jb, kb, ws, wb;       //test
  
   	cout << "Masukkan jarak mobil dari arah Barat = ";
   	cin >> jb;
