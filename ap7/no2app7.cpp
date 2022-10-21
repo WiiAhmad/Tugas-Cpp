@@ -1,9 +1,9 @@
 #include <iostream>
 #include <conio.h>
-#include <cstring>
+#include <cstring> //test
 
 main(){
-int bil1, bil2, op, jumlah;
+int bil1, bil2, op, jumlah, bil3;
 char ber;
 awal2:
 cout << "========================" << endl;
